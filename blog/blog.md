@@ -3,9 +3,10 @@ layout: site
 ---
 # Blog
 
-This is my first blogpost
+This is my blog
 
-## topic
+## First Post
+[link](2016-11-15-test)
 
 fdskjmfj
 
