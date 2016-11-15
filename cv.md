@@ -1,3 +1,7 @@
+---
+layout: site
+---
+
 #This is my CV
 
 ## Education
