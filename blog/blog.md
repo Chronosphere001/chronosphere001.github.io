@@ -6,7 +6,7 @@ layout: site
 This is my blog
 
 ## First Post
-[link](/posts/2016-11-15-test)
+[link](posts/2016-11-15-test)
 
 fdskjmfj
 
