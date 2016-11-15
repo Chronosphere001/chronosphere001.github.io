@@ -3,7 +3,7 @@ layout: site
 ---
 # Welcome to this test website!
 
-
+{% include posts.html posts="2" %}
 
 Click [here](cv) to view my CV
 
