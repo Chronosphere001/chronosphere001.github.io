@@ -5,7 +5,7 @@ layout: site
 
 
 
-Click [here](/cv) to view my CV
+Click [here](cv) to view my CV
 
 #Image test
 ![](http://www.beardsleyzoo.com/wp-content/uploads/2015/10/Red-Panda-Outside.jpg)
