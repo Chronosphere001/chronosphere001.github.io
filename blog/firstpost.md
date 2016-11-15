@@ -1,13 +1,13 @@
 ---
 layout: site
 ---
-#Blog
+# Blog
 
 This is my first blogpost
 
-##topic
+## topic
 
 fdskjmfj
 
-##fjdkslqm
+## fjdkslqm
 fdsklqfmkjdskplqfj
